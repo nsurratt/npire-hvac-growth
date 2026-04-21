@@ -7,7 +7,6 @@ const footerLinks = {
     { label: 'Heating', href: '/heating' },
     { label: 'Maintenance Plans', href: '/maintenance-plans' },
     { label: 'Indoor Air Quality', href: '/indoor-air-quality' },
-    { label: 'Financing', href: '/financing' },
   ],
   company: [
     { label: 'About Us', href: '/about' },
